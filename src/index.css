@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --main-bg: #2a3447;
+  --soft-bg: #384256;
+  --dark-bg: #222b3c;
+  --main-color: #fff;
+  --soft-color: #ddd;
+  --dark-color: #2a3447;
+  
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}

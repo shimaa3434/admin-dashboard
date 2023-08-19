@@ -1,0 +1,28 @@
+.dataTable{
+}
+
+
+.dataTable .data_grid{
+    background: #fff;
+    padding: 20px;
+    width: 100%;
+}
+
+.dataTable .data_grid .MuiDataGrid-toolbarContainer{
+    flex-direction: row-reverse;
+}
+.dataTable .data_grid img{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.actions{
+    display: flex;
+    gap: 15px;
+}
+.actions img{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
